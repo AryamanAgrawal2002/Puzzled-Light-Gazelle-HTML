@@ -220,6 +220,9 @@
   align-items: center;
   justify-content: flex-start;
 }
+.home-container4::-webkit-scrollbar {
+  display: none;
+}
 .home-container5 {
   flex: 0 0 auto;
   width: auto;
@@ -280,7 +283,6 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  -webkit-scrollbar: hidden;
 }
 .home-image6 {
   width: 50%;
