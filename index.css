@@ -229,6 +229,9 @@
   align-items: center;
   justify-content: space-between;
 }
+.home-container13::-webkit-progress-bar {
+  display: none;
+}
 .home-container14 {
   gap: 3vh;
   flex: 0 0 auto;
