@@ -303,11 +303,17 @@
 }
 .home-container19 {
   width: 100%;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
   height: auto;
   display: flex;
   align-items: stretch;
   flex-direction: column;
   justify-content: center;
   background-color: #000000;
+}
+.home-text67 {
+  padding: 1vh;
+  text-align: left;
+}
+.home-text68 {
+  color: #ffffff;
 }
