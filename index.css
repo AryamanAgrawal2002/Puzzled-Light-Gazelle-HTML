@@ -350,6 +350,10 @@
   align-items: center;
   justify-content: space-between;
 }
+
+.home-container13::-webkit-scrollbar {
+  display: none;
+}
  
 .home-container14 {
   gap: 1vh;
