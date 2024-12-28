@@ -354,6 +354,10 @@
 .home-container13::-webkit-scrollbar {
   display: none;
 }
+
+.home-container13::-webkit-progress-bar {
+  display: none;
+}
  
 .home-container14 {
   gap: 1vh;
